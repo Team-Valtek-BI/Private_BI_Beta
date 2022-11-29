@@ -1,0 +1,44 @@
+body {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  font: 1vw "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1{
+  font: 3vw 'Helvetica' ;
+  color: darkgreen;
+}
+
+a {
+  color: #00B7FF;
+  font: 2vw;
+}
+
+li{
+  font-size: 1.2vw;
+  line-height: 3vw;
+}
+
+.error_marco{
+  border-style: double solid ;
+  border-color : black;
+  border-width: 0.2vw;
+}
+
+.error{
+  font-size: 1.2vw;
+  color: darkred;
+}
+
+.error_verbose{
+  font-size: 1vw;
+  font-style: italic;
+}
+
+.destacado{
+  font-size: 1.2vw;
+  color: darkslategray;
+  font-weight: 400;
+}

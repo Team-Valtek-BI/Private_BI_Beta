@@ -1,0 +1,1339 @@
+1631727122648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile08xxt7"
+1631727123555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofile08xxt7\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 4032, MediaDecoderStateMachine #1] WARNING: Decoder=72da92f800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1631727127645	Marionette	INFO	Listening on port 55149
+1631727127783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631727129355	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1631727130706	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631727150373	Marionette	INFO	Stopped listening on port 55149
+1632499116233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile2Z5o4m"
+1632499117078	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofile2Z5o4m\\search.json.mozlz4", (void 0)))
+[Child 5196, MediaDecoderStateMachine #1] WARNING: Decoder=83302ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1632499121266	Marionette	INFO	Listening on port 53494
+1632499121794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1632499123535	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1632499124822	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1632499144509	Marionette	INFO	Stopped listening on port 53494
+1632856555172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile6Lkgz9"
+1632856556220	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofile6Lkgz9\\search.json.mozlz4", (void 0)))
+[Child 5528, MediaDecoderStateMachine #1] WARNING: Decoder=e4ceafb000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1632856559942	Marionette	INFO	Listening on port 63857
+1632856560247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1632856562262	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1632856563874	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1632856583414	Marionette	INFO	Stopped listening on port 63857
+1634732122837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile0IAxVF"
+1634732123952	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofile0IAxVF\\search.json.mozlz4", (void 0)))
+[Child 5052, MediaDecoderStateMachine #1] WARNING: Decoder=3be9cfc000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1634732129665	Marionette	INFO	Listening on port 50179
+1634732130766	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634732132860	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1634732134488	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634732153948	Marionette	INFO	Stopped listening on port 50179
+1634780359318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofiletSszzw"
+1634780363428	mozrunner::runner	INFO	Running commaJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofile5h0TdU\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 7536, MediaDec1634780378783	Marionette	INFO	Listening on port 53108
+1634780379033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634780382693	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document hasconsole.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed toconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileCwZim8\\search.json.mozlz4", (void 0)16347801634780403799	Marionette	INFO	Stopped listening on port 53108
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+e'.
+1634780411207	Marionette	INFO	Stopped listening on port 53160
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 2556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/builds/worker/checkouts/gecko/toolkit/components/places/Database.cpp","lineNumber":467,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:148","resource://gre/modules/XPCOMUtils.jsm:get:62","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1714","resource:///modules/BrowserGlue.jsm:BG_observe:1019","chrome://browser/content/browser.js:_delayedStartup:2164"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+[Parent 2556, IPC I/O Parent] 1634780433099	Marionette	INFO	Stopped listening on port 53263
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+*
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1634780955480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilePazikK"
+1634780956575	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilePazikK\\search.json.mozlz4", (void 0)))
+[Child 7076, MediaDecoderStateMachine #1] WARNING: Decoder=c36df2e400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1634780961446	Marionette	INFO	Listening on port 58008
+1634780961615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634780963241	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1634780964978	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634780984608	Marionette	INFO	Stopped listening on port 58008
+1634781617350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile9S8fNE"
+1634781618243	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofile9S8fNE\\search.json.mozlz4", (void 0)))
+[Child 6508, MediaDecoderStateMachine #1] WARNING: Decoder=d2d772e400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1634781623136	Marionette	INFO	Listening on port 58135
+1634781623350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634781625734	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1634781627161	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634781646785	Marionette	INFO	Stopped listening on port 58135
+1634781718450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofiletqVmQo"
+1634781719717	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofiletqVmQo\\search.json.mozlz4", (void 0)))
+[Child 2720, MediaDecoderStateMachine #1] WARNING: Decoder=6d0ad31800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1634781725038	Marionette	INFO	Listening on port 58234
+1634781725531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634781727272	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1634781729201	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634781748895	Marionette	INFO	Stopped listening on port 58234
+1634781820433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileulrFIV"
+1634781821547	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileulrFIV\\search.json.mozlz4", (void 0)))
+[Child 5800, MediaDecoderStateMachine #1] WARNING: Decoder=a53e2f400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1634781826669	Marionette	INFO	Listening on port 58331
+1634781827111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634781828708	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1634781830896	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634781850469	Marionette	INFO	Stopped listening on port 58331
+1634781871649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilelFPEP5"
+1634781872659	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilelFPEP5\\search.json.mozlz4", (void 0)))
+[Child 7496, MediaDecoderStateMachine #1] WARNING: Decoder=cf1092ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1634781877530	Marionette	INFO	Listening on port 58448
+1634781877989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634781880447	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1634781881865	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634781901430	Marionette	INFO	Stopped listening on port 58448
+1634781938219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile0IHkG0"
+1634781939989	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofile0IHkG0\\search.json.mozlz4", (void 0)))
+[Child 6236, MediaDecoderStateMachine #1] WARNING: Decoder=40bb339400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1634781949354	Marionette	INFO	Listening on port 58595
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gr1634781950910	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/da1634781952619	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 1634781953173JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/1634781972833	Marionette	INFO	Stopped listening on port 58575
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tentLoaded' because document has an invalid readyState of 'complete'.
+1634781975284	Marionette	INFO	Stopped listening on port 58595
+1634782545308	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilegP2TSe"
+1634782546414	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilegP2TSe\\search.json.mozlz4", (void 0)))
+[Child 5964, MediaDecoderStateMachine #1] WARNING: Decoder=1c78c2f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1634782550543	Marionette	INFO	Listening on port 50207
+1634782551039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634782553130	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1634782555105	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634782574414	Marionette	INFO	Stopped listening on port 50207
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634782639737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileZfEanf"
+1634782640759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileZfEanf\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 8536, MediaDecoderStateMachine #1] WARNING: Decoder=fcbad2e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1634782645004	Marionette	INFO	Listening on port 50316
+1634782645313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634782647093	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1634782648623	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634782668273	Marionette	INFO	Stopped listening on port 50316
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634782977405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileXXP0no"
+1634782980994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileXXP0no\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Child 1468,console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1634783003726	Marionette	INFO	Listening on port 50455
+1634783006526	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634783010218	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.1JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1634783019768	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634783038261	Marionette	INFO	Stopped listening on port 50455
+because document has an invalid readyState of 'complete'.
+1634783038292	Marionette	INFO	Stopped listening on port 50502
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5E0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1635362612022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileEIdaMC"
+1635362612985	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileEIdaMC\\search.json.mozlz4", (void 0)))
+[Child 4844, MediaDecoderStateMachine #1] WARNING: Decoder=495c42e400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1635362616648	Marionette	INFO	Listening on port 59122
+1635362617034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635362618675	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1635362620183	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635362639685	Marionette	INFO	Stopped listening on port 59122
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6048, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1635362691472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileKlfZqt"
+1635362692223	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileKlfZqt\\search.json.mozlz4", (void 0)))
+[Child 3096, MediaDecoderStateMachine #1] WARNING: Decoder=2a1292fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1635362696065	Marionette	INFO	Listening on port 59176
+1635362696533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635362698249	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1635362699635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635362719290	Marionette	INFO	Stopped listening on port 59176
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635363942851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilecKKVkl"
+1635363943649	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilecKKVkl\\search.json.mozlz4", (void 0)))
+[Child 4716, MediaDecoderStateMachine #1] WARNING: Decoder=f3e4d2e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1635363947203	Marionette	INFO	Listening on port 59266
+1635363947421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635363949022	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1635363950298	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635363969935	Marionette	INFO	Stopped listening on port 59266
+1635363998599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilesqD6wf"
+1635363999434	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilesqD6wf\\search.json.mozlz4", (void 0)))
+[Child 5824, MediaDecoderStateMachine #1] WARNING: Decoder=658982fc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1635364003241	Marionette	INFO	Listening on port 59323
+1635364003623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635364005404	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1635364006583	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635364026293	Marionette	INFO	Stopped listening on port 59323
+1635364047144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileI7BhBR"
+1635364048028	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileI7BhBR\\search.json.mozlz4", (void 0)))
+[Child 1572, MediaDecoderStateMachine #1] WARNING: Decoder=1b7142ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1635364051667	Marionette	INFO	Listening on port 59380
+1635364052164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635364053787	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1635364054946	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635364074634	Marionette	INFO	Stopped listening on port 59380
+1635364344728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileAD7wqB"
+1635364345539	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileAD7wqB\\search.json.mozlz4", (void 0)))
+[Child 5692, MediaDecoderStateMachine #1] WARNING: Decoder=a17ac5f400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1635364350160	Marionette	INFO	Listening on port 59443
+1635364350245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635364351722	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1635364352906	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635364372608	Marionette	INFO	Stopped listening on port 59443
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1635428822781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileGkxF4G"
+1635428823618	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileGkxF4G\\search.json.mozlz4", (void 0)))
+[Child 6104, MediaDecoderStateMachine #1] WARNING: Decoder=20a352f800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1635428827476	Marionette	INFO	Listening on port 60886
+1635428827910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635428829481	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1635428830687	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635428850396	Marionette	INFO	Stopped listening on port 60886
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5E0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1636559299395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilezGhADT"
+1636559300346	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilezGhADT\\search.json.mozlz4", (void 0)))
+[Child 4208, MediaDecoderStateMachine #1] WARNING: Decoder=c34512e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1636559303821	Marionette	INFO	Listening on port 50899
+1636559304107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636559305822	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1636559307025	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1636559326729	Marionette	INFO	Stopped listening on port 50899
+[Parent 2468, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1636639798895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileyZvkZe"
+1636639799895	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileyZvkZe\\search.json.mozlz4", (void 0)))
+[Child 5028, MediaDecoderStateMachine #1] WARNING: Decoder=d86222e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1636639804827	Marionette	INFO	Listening on port 52972
+1636639805040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1636639806885	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1636639808075	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1636639827791	Marionette	INFO	Stopped listening on port 52972
+1637073174174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileWJe767"
+1637073174981	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileWJe767\\search.json.mozlz4", (void 0)))
+[Child 6040, MediaDecoderStateMachine #1] WARNING: Decoder=f359c2ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1637073178729	Marionette	INFO	Listening on port 51176
+1637073179244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637073180981	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637073182398	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637073201992	Marionette	INFO	Stopped listening on port 51176
+[Parent 6020, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1637094233109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilekg5FL1"
+1637094237703	mozrunner::runner	INFO	Running commaJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilekg5FL1\\search.json.mozlz4", (void 0))console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileqDZwPq\\search.json.mozlz4", (void 0)))
+[Child 6844, MediaDec1637094249350	Marionette	INFO	Listening on port 51632
+1637094249579	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637094256204	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637094262903	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637094282342	Marionette	INFO	Stopped listening on port 51632
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Loaded' because document has an invalid readyState of 'complete'.
+1637094286989	Marionette	INFO	Stopped listening on port 51695
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+ Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remot1637094259071	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/datconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilewOKRkf\\search.json.mozlz4", (void 0)))
+[Ch1637094283333	Marionette	INFO	Stopped listening on port 51692
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+as aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1637094279560	Marionette	INFO	Listening on port 51888
+1637094279778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637094285521	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637094287597	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637094308251	Marionette	INFO	Stopped listening on port 51888
+[Parent 5852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+ https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637094286433	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637094305042	Marionette	INFO	Stopped listening on port 51887
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1637094554559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile9aCAtb"
+1637094555724	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofile9aCAtb\\search.json.mozlz4", (void 0)))
+[Child 6664, MediaDecoderStateMachine #1] WARNING: Decoder=1985f2f800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1637094565635	Marionette	INFO	Listening on port 52218
+1637094565806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637094569444	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637094571679	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637094591019	Marionette	INFO	Stopped listening on port 52218
+1637094945070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileyT30RF"
+1637094945885	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileyT30RF\\search.json.mozlz4", (void 0)))
+[Child 2908, MediaDecoderStateMachine #1] WARNING: Decoder=a43192e400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1637094950139	Marionette	INFO	Listening on port 52345
+1637094950621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637094952410	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637094953643	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637094973359	Marionette	INFO	Stopped listening on port 52345
+1637095011866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilexetPlj"
+1637095012803	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilexetPlj\\search.json.mozlz4", (void 0)))
+[Child 10088, MediaDecoderStateMachine #1] WARNING: Decoder=d9cda2f800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1637095016980	Marionette	INFO	Listening on port 52441
+1637095017094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637095019524	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637095020851	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637095040545	Marionette	INFO	Stopped listening on port 52441
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637095089694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileSiAoky"
+1637095090571	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileSiAoky\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 7276, MediaDecoderStateMachine #1] WARNING: Decoder=a48392f800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1637095094542	Marionette	INFO	Listening on port 52545
+1637095095197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637095097425	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637095098825	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637095118482	Marionette	INFO	Stopped listening on port 52545
+1637095135396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilee8D702"
+1637095136361	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilee8D702\\search.json.mozlz4", (void 0)))
+[Child 8240, MediaDecoderStateMachine #1] WARNING: Decoder=7e2b52e400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1637095140094	Marionette	INFO	Listening on port 52650
+1637095140437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637095142782	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637095144301	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637095163967	Marionette	INFO	Stopped listening on port 52650
+1637095192677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilepW8ijB"
+1637095196020	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilepW8ijB\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Child 8824,[Parent 3400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1637095205810	Marionette	INFO	Listening on port 52793
+1637095205844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637095208902	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+11637095226509	Marionette	INFO	Stopped listening on port 52787
+
+###!!! [Child][RunMessage] Error: Channel closing: too la1637095230696	Marionette	INFO	Stopped listening on port 52793
+1637095740406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileBYh2gH"
+1637095741180	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileBYh2gH\\search.json.mozlz4", (void 0)))
+[Child 6680, MediaDecoderStateMachine #1] WARNING: Decoder=8511a2ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1637095745251	Marionette	INFO	Listening on port 52971
+1637095745439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637095747316	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637095748854	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637095768304	Marionette	INFO	Stopped listening on port 52971
+[Parent 6660, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1637095813686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilezIyugY"
+1637095814624	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilezIyugY\\search.json.mozlz4", (void 0)))
+[Child 10040, MediaDecoderStateMachine #1] WARNING: Decoder=9211a2f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1637095818575	Marionette	INFO	Listening on port 53069
+1637095818964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637095820448	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637095821754	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637095841398	Marionette	INFO	Stopped listening on port 53069
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+[Parent 6436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637097219953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileo1fnFt"
+1637097225296	mozrunner::runner	INFO	Running commaconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could nconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileXvTsbw\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 480, MediaDecoconsole.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm1637097241047	Marionette	INFO	Listening on port 53302
+1637097244260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637097246159	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637097247887	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637097267255	Marionette	INFO	Stopped listening on port 53302
+rt 53252
+sm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1637097236479	Marionette	INFO	Listening on port 53264
+1637097238272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1637097241814	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1637097244762	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637097264254	Marionette	INFO	Stopped listening on port 53264
+[Parent 9488, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 9488, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639075470719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileA16H9K"
+1639075471765	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileA16H9K\\search.json.mozlz4", (void 0)))
+[Child 1912, MediaDecoderStateMachine #1] WARNING: Decoder=7d4d62ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1639075475383	Marionette	INFO	Listening on port 54378
+1639075475731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639075478063	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1639075479362	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639075499053	Marionette	INFO	Stopped listening on port 54378
+1639075516562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileDI7lyI"
+1639075517541	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofileDI7lyI\\search.json.mozlz4", (void 0)))
+[Child 2432, MediaDecoderStateMachine #1] WARNING: Decoder=38e072f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1639075521688	Marionette	INFO	Listening on port 54431
+1639075522080	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639075523762	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1639075524929	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639075544646	Marionette	INFO	Stopped listening on port 54431
+1639075658561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofile636c8t"
+1639075659505	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofile636c8t\\search.json.mozlz4", (void 0)))
+[Child 6892, MediaDecoderStateMachine #1] WARNING: Decoder=e3bb62ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1639075663852	Marionette	INFO	Listening on port 54494
+1639075664099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639075665882	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1639075667372	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639075686895	Marionette	INFO	Stopped listening on port 54494
+1639075850418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilePKtkfB"
+1639075851430	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilePKtkfB\\search.json.mozlz4", (void 0)))
+[Child 8948, MediaDecoderStateMachine #1] WARNING: Decoder=bd9a42ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1639075855214	Marionette	INFO	Listening on port 54556
+1639075855436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639075857509	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1639075858675	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639075878377	Marionette	INFO	Stopped listening on port 54556
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639075908167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilegkCJn6"
+1639075909247	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilegkCJn6\\search.json.mozlz4", (void 0)))
+[Child 8744, MediaDecoderStateMachine #1] WARNING: Decoder=1ef912f800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1639075913796	Marionette	INFO	Listening on port 54612
+1639075914870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639075917104	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1639075918269	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639075937971	Marionette	INFO	Stopped listening on port 54612
+1639075963182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofilexTxPWB"
+1639075964233	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador\\AppData\\Local\\Temp\\2\\rust_mozprofilexTxPWB\\search.json.mozlz4", (void 0)))
+[Child 7952, MediaDecoderStateMachine #1] WARNING: Decoder=a77732f400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1639075968631	Marionette	INFO	Listening on port 54672
+1639075968747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1639075970891	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1639075972255	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1639075991924	Marionette	INFO	Stopped listening on port 54672
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+[Parent 2524, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642773721703	geckodriver	INFO	Listening on 127.0.0.1:53638
+1642773723749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53639" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilerfLIE0"
+1642773725160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilerfLIE0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53639/devtools/browser/288e89e2-1450-492b-b1e4-31bc1f3fd2bb
+1642773729906	Marionette	INFO	Listening on port 53644
+1642773730471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642773732373	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1642773733961	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1642773753629	Marionette	INFO	Stopped listening on port 53644
+[Parent 6972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1644253968983	geckodriver	INFO	Listening on 127.0.0.1:63110
+1644253971060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63111" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileC2J83f"
+1644253972421	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileC2J83f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63111/devtools/browser/c5cda441-d7ef-41a4-8e22-2125a4c1b1a1
+1644253977370	Marionette	INFO	Listening on port 63116
+1644253978108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644253980071	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1644253981583	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1644254001202	Marionette	INFO	Stopped listening on port 63116
+[Parent 20136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1645013938810	geckodriver	INFO	Listening on 127.0.0.1:56928
+1645013940846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56929" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilet92Qii"
+1645013942203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilet92Qii\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56929/devtools/browser/d3bc38e8-3ff2-4a85-a508-7d5c7599eeed
+1645013947095	Marionette	INFO	Listening on port 56934
+1645013947656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645013949431	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1645013950696	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645013970370	Marionette	INFO	Stopped listening on port 56934
+[Parent 26756, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1645021608890	geckodriver	INFO	Listening on 127.0.0.1:60844
+1645021610945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60845" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilejcmfhQ"
+1645021612180	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilejcmfhQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60845/devtools/browser/e2e6dc96-46ec-4c40-8e30-ec0a20ea3e5e
+1645021616514	Marionette	INFO	Listening on port 60850
+1645021616611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645021618783	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1645021620410	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645021639958	Marionette	INFO	Stopped listening on port 60850
+[Parent 17280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1645023071374	geckodriver	INFO	Listening on 127.0.0.1:60931
+1645023073437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60932" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofile4UOgJT"
+1645023074810	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofile4UOgJT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60932/devtools/browser/6187cb63-80c0-407c-802b-c69de5e9b868
+1645023079412	Marionette	INFO	Listening on port 60937
+1645023079948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645023081911	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1645023083164	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645023102874	Marionette	INFO	Stopped listening on port 60937
+1645024305049	geckodriver	INFO	Listening on 127.0.0.1:61008
+1645024307108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61009" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilezNQW6Q"
+1645024308289	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilezNQW6Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61009/devtools/browser/2b24b87c-ef4a-4b20-b976-1dcf8246ed5a
+1645024312649	Marionette	INFO	Listening on port 61014
+1645024313046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645024314795	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1645024316306	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645024335863	Marionette	INFO	Stopped listening on port 61014
+1645026480080	geckodriver	INFO	Listening on 127.0.0.1:61105
+1645026482161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61106" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileXzfFQd"
+1645026483414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileXzfFQd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61106/devtools/browser/d3ca7c33-bfb9-4f4a-bc3e-fe4c88e9d52a
+1645026487489	Marionette	INFO	Listening on port 61111
+1645026487842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645026489709	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1645026491698	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645026510942	Marionette	INFO	Stopped listening on port 61111
+[Parent 28196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1645739913597	geckodriver	INFO	Listening on 127.0.0.1:51812
+1645739915688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51813" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileppo5V1"
+1645739916963	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileppo5V1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51813/devtools/browser/41cfb90a-1864-4dd6-8415-dbec88cf44a2
+1645739920835	Marionette	INFO	Listening on port 51818
+1645739921375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645739923479	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1645739924857	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645739944498	Marionette	INFO	Stopped listening on port 51818
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645741035540	geckodriver	INFO	Listening on 127.0.0.1:51894
+1645741037621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51895" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileP7K0uB"
+1645741038898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileP7K0uB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51895/devtools/browser/84a1feac-919a-460a-a49e-d90be8c298a4
+1645741043209	Marionette	INFO	Listening on port 51900
+1645741043595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645741046126	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1645741047492	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1645741067103	Marionette	INFO	Stopped listening on port 51900
+[Parent 29512, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1646048252618	geckodriver	INFO	Listening on 127.0.0.1:61682
+1646048254698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61683" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileCFGQs7"
+1646048255990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileCFGQs7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61683/devtools/browser/2916a4ac-4776-4113-a990-3a4aab8705b5
+1646048260137	Marionette	INFO	Listening on port 61688
+1646048260526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646048262265	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1646048263792	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1646048283246	Marionette	INFO	Stopped listening on port 61688
+1646748370979	geckodriver	INFO	Listening on 127.0.0.1:60899
+1646748373064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60900" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileK2hDKf"
+1646748374043	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileK2hDKf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60900/devtools/browser/acbb28ea-4737-49c4-8de2-10e87782c2f8
+1646748378671	Marionette	INFO	Listening on port 60905
+1646748378964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646748380967	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1646748382674	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1646748402230	Marionette	INFO	Stopped listening on port 60905
+1647353201475	geckodriver	INFO	Listening on 127.0.0.1:51553
+1647353203567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51554" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileSW0NHp"
+1647353204658	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileSW0NHp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51554/devtools/browser/a733d851-e049-4c40-9adb-a237abd345f6
+1647353208819	Marionette	INFO	Listening on port 51559
+1647353209130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647353210937	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1647353212371	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1647353232011	Marionette	INFO	Stopped listening on port 51559
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648133009903	geckodriver	INFO	Listening on 127.0.0.1:53099
+1648133011990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53100" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilesemLdo"
+1648133013072	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilesemLdo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53100/devtools/browser/9fd768fc-1410-4fac-a91e-e863762dd342
+1648133017460	Marionette	INFO	Listening on port 53106
+1648133017860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648133019860	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1648133021241	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1648133040871	Marionette	INFO	Stopped listening on port 53106
+[Parent 14520, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648133291361	geckodriver	INFO	Listening on 127.0.0.1:53173
+1648133293415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53174" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileadpueF"
+1648133294330	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileadpueF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53174/devtools/browser/39e2656a-1967-4be3-a2fe-92c9f62a24cd
+1648133298265	Marionette	INFO	Listening on port 53179
+1648133298655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648133300368	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1648133303367	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1648133321382	Marionette	INFO	Stopped listening on port 53179
+1648491025801	geckodriver	INFO	Listening on 127.0.0.1:60586
+1648491027879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60587" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilemFA6av"
+1648491028990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilemFA6av\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60587/devtools/browser/74b9c976-4b85-45c2-8064-d6c70078fab5
+1648491033180	Marionette	INFO	Listening on port 60592
+1648491033724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648491035698	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1648491037007	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1648491056649	Marionette	INFO	Stopped listening on port 60592
+1649168422527	geckodriver	INFO	Listening on 127.0.0.1:62153
+1649168424612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62154" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileYBLQEH"
+1649168425766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileYBLQEH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62154/devtools/browser/d9d40f78-b564-459d-8387-c5ec65701668
+1649168430603	Marionette	INFO	Listening on port 62159
+1649168431084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649168433086	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1649168434479	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649168454077	Marionette	INFO	Stopped listening on port 62159
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1649341065550	geckodriver	INFO	Listening on 127.0.0.1:49183
+1649341067612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49184" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileJVDbbo"
+1649341068683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileJVDbbo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49184/devtools/browser/ea95e67f-e18a-486b-bb9f-1c9324938da7
+1649341073212	Marionette	INFO	Listening on port 49189
+1649341073302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649341075779	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1649341077311	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649341096850	Marionette	INFO	Stopped listening on port 49189
+1649425185959	geckodriver	INFO	Listening on 127.0.0.1:54804
+1649425188013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54805" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofile7J2xov"
+1649425189212	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofile7J2xov\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54805/devtools/browser/ae48dc6a-af55-4e82-aa13-d9da27590e8e
+1649425193750	Marionette	INFO	Listening on port 54810
+1649425194277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649425196247	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1649425198016	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649425217532	Marionette	INFO	Stopped listening on port 54810
+1649425410499	geckodriver	INFO	Listening on 127.0.0.1:54872
+1649425412546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54873" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilere0QGp"
+1649425413565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilere0QGp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54873/devtools/browser/5d1e1abc-4329-4f15-a321-5a30ea491111
+1649425418054	Marionette	INFO	Listening on port 54878
+1649425418736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649425421069	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1649425422761	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649425441971	Marionette	INFO	Stopped listening on port 54878
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1649685179070	geckodriver	INFO	Listening on 127.0.0.1:60839
+1649685181107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60840" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileygACi2"
+1649685182214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileygACi2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60840/devtools/browser/8f2944a4-9e8c-47bf-92e2-cd49c37b1d3b
+1649685186748	Marionette	INFO	Listening on port 60845
+1649685187504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649685189325	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1649685190709	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649685210361	Marionette	INFO	Stopped listening on port 60845
+1650933642837	geckodriver	INFO	Listening on 127.0.0.1:64686
+1650933644893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64687" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilexf5wqt"
+1650933645932	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilexf5wqt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64687/devtools/browser/a645daea-e9a5-4fd6-ae69-2658b652d3ab
+1650933650185	Marionette	INFO	Listening on port 64692
+1650933650476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650933652391	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1650933654398	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1650933673615	Marionette	INFO	Stopped listening on port 64692
+[Parent 12536, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651239306373	geckodriver	INFO	Listening on 127.0.0.1:58042
+1651239308448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58043" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilez3EuxH"
+1651239309296	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilez3EuxH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58043/devtools/browser/39c2d087-2742-4e38-9a69-1dc7a1b9ee58
+1651239313585	Marionette	INFO	Listening on port 58048
+1651239314034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651239315740	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1651239317154	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651239336774	Marionette	INFO	Stopped listening on port 58048
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651582900272	geckodriver	INFO	Listening on 127.0.0.1:63955
+1651582902337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63956" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilePeQRo8"
+1651582903287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilePeQRo8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63956/devtools/browser/822dbd59-e274-4fe2-8586-31521b7deaf8
+1651582907746	Marionette	INFO	Listening on port 63961
+1651582908077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651582909824	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1651582911164	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651582930817	Marionette	INFO	Stopped listening on port 63961
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1651582955237	geckodriver	INFO	Listening on 127.0.0.1:64009
+1651582957323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64010" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilezpa9Nx"
+1651582958237	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilezpa9Nx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64010/devtools/browser/2ef395f0-19ca-4b32-a8de-b6f44b8a84d1
+1651582963033	Marionette	INFO	Listening on port 64015
+1651582963516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651582965304	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1651582966818	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1651582986449	Marionette	INFO	Stopped listening on port 64015
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652122881684	geckodriver	INFO	Listening on 127.0.0.1:64985
+1652122883747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64986" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileUcFaRl"
+1652122885044	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileUcFaRl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64986/devtools/browser/5239ce86-39a3-4f7c-94c8-a4f1dae2c3c8
+1652122889806	Marionette	INFO	Listening on port 64991
+1652122890114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652122891743	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1652122893445	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652122913102	Marionette	INFO	Stopped listening on port 64991
+[Parent 31012, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652125605110	geckodriver	INFO	Listening on 127.0.0.1:65189
+1652125607198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65190" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofile0H6qfB"
+1652125608181	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofile0H6qfB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65190/devtools/browser/d86e71e2-a4dc-4a87-aee0-6cd64fbba881
+1652125612252	Marionette	INFO	Listening on port 65195
+1652125612739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652125614587	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1652125616058	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652125635630	Marionette	INFO	Stopped listening on port 65195
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652195101159	geckodriver	INFO	Listening on 127.0.0.1:56881
+1652195103229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56882" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofile5MYiLc"
+1652195104286	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofile5MYiLc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56882/devtools/browser/176bafe6-07b3-4351-8020-1c1f4a65b550
+1652195108585	Marionette	INFO	Listening on port 56887
+1652195108903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652195110682	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1652195112495	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652195131882	Marionette	INFO	Stopped listening on port 56887
+1652455570739	geckodriver	INFO	Listening on 127.0.0.1:58399
+1652455572807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58400" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileliEzVV"
+1652455573850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileliEzVV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58400/devtools/browser/83cef852-5f32-4e64-a7cf-e8e63eb27137
+1652455578393	Marionette	INFO	Listening on port 58405
+1652455578759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652455580660	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1652455582401	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652455601901	Marionette	INFO	Stopped listening on port 58405
+[Parent 32080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652456442583	geckodriver	INFO	Listening on 127.0.0.1:58486
+1652456444655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58487" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilekI51An"
+1652456445589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilekI51An\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58487/devtools/browser/7988db36-e6e3-449d-9098-2afaa0026084
+1652456449879	Marionette	INFO	Listening on port 58492
+1652456450244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652456452018	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1652456453565	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652456473133	Marionette	INFO	Stopped listening on port 58492
+1652458311834	geckodriver	INFO	Listening on 127.0.0.1:58579
+1652458313907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58580" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilegCMN0A"
+1652458314785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilegCMN0A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58580/devtools/browser/595f11da-4c2d-4974-8b14-e981d16902ee
+1652458319241	Marionette	INFO	Listening on port 58585
+1652458319524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652458321185	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1652458323009	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652458342682	Marionette	INFO	Stopped listening on port 58585
+[Parent 35048, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652821947344	geckodriver	INFO	Listening on 127.0.0.1:53973
+1652821949402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53974" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilelKpSIj"
+1652821950435	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilelKpSIj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53974/devtools/browser/083337b2-5730-4b72-8948-2066f05b2bc0
+1652821955257	Marionette	INFO	Listening on port 53979
+1652821955556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652821957604	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1652821958990	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652821978573	Marionette	INFO	Stopped listening on port 53979
+[Parent 40680, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1653401163107	geckodriver	INFO	Listening on 127.0.0.1:64773
+1653401165182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64774" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileLz1a0a"
+1653401166231	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileLz1a0a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64774/devtools/browser/06b23dbd-81b4-41cb-ba26-d599509bdfc7
+1653401170829	Marionette	INFO	Listening on port 64779
+1653401171354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653401173119	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1653401174584	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1653401194277	Marionette	INFO	Stopped listening on port 64779
+1654001790795	geckodriver	INFO	Listening on 127.0.0.1:55265
+1654001792904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55266" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilegwz7F3"
+1654001793975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilegwz7F3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55266/devtools/browser/6c22ba10-bbf0-42ab-b560-e2b3c6c89a07
+1654001798820	Marionette	INFO	Listening on port 55271
+1654001799180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654001801351	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1654001802562	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1654001822240	Marionette	INFO	Stopped listening on port 55271
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1654613540862	geckodriver	INFO	Listening on 127.0.0.1:53568
+1654613542924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53569" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileVefROR"
+1654613543817	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileVefROR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53569/devtools/browser/dbe64a4c-fe4c-458f-9a82-49249bf0a2dc
+1654613548153	Marionette	INFO	Listening on port 53574
+1654613548505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654613550796	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1654613552079	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1654613571744	Marionette	INFO	Stopped listening on port 53574
+[Parent 8084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1654871567288	geckodriver	INFO	Listening on 127.0.0.1:57409
+1654871569343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57410" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilewp911w"
+1654871570372	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilewp911w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57410/devtools/browser/9ce77b9e-37bd-4d4c-89b5-dd3cefcd9b26
+1654871574651	Marionette	INFO	Listening on port 57415
+1654871575009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654871576779	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1654871578112	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1654871597746	Marionette	INFO	Stopped listening on port 57415
+1656441481294	geckodriver	INFO	Listening on 127.0.0.1:55468
+1656441483356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55469" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileQnNh8z"
+1656441484575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileQnNh8z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55469/devtools/browser/95e5a022-1102-483a-b8bd-31952a78d796
+1656441489100	Marionette	INFO	Listening on port 55474
+1656441489572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656441491615	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1656441493001	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656441512643	Marionette	INFO	Stopped listening on port 55474
+1656593200878	geckodriver	INFO	Listening on 127.0.0.1:64973
+1656593202961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64974" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileNKFCta"
+1656593204100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileNKFCta\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64974/devtools/browser/88e3e866-2a5a-4254-aad2-19df96cea036
+1656593208606	Marionette	INFO	Listening on port 64979
+1656593209137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656593210694	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1656593212498	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656593231821	Marionette	INFO	Stopped listening on port 64979
+[Parent 15692, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1656593285763	geckodriver	INFO	Listening on 127.0.0.1:65036
+1656593287814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65037" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileiWqxHo"
+1656593288824	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileiWqxHo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65037/devtools/browser/9bf224eb-b4ec-4615-af0a-d7e433080dc2
+1656593293720	Marionette	INFO	Listening on port 65042
+1656593293983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656593295706	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1656593297133	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656593316652	Marionette	INFO	Stopped listening on port 65042
+1656607664179	geckodriver	INFO	Listening on 127.0.0.1:65425
+1656607666261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65426" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileFcYnSq"
+1656607667407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileFcYnSq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65426/devtools/browser/82fde07b-a2f2-4976-b126-6e7fe881a1b0
+1656607671819	Marionette	INFO	Listening on port 65431
+1656607672004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656607674390	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1656607675823	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1656607695538	Marionette	INFO	Stopped listening on port 65431
+[Parent 16128, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657033023160	geckodriver	INFO	Listening on 127.0.0.1:53622
+1657033025209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53623" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilePCHyc6"
+1657033026196	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilePCHyc6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53623/devtools/browser/08033347-9b84-4274-a80a-2d48cb88c4ca
+1657033030697	Marionette	INFO	Listening on port 53628
+1657033031007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657033033125	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1657033034454	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1657033054089	Marionette	INFO	Stopped listening on port 53628
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1657137722998	geckodriver	INFO	Listening on 127.0.0.1:55881
+1657137725046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55882" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileCvobpB"
+1657137726108	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileCvobpB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55882/devtools/browser/023f87d2-3f44-45ea-9e61-bac021081270
+1657137730649	Marionette	INFO	Listening on port 55887
+1657137731033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657137732941	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1657137734259	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1657137753902	Marionette	INFO	Stopped listening on port 55887
+1658173636706	geckodriver	INFO	Listening on 127.0.0.1:57515
+1658173638816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57516" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileZ069Rn"
+1658173639822	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileZ069Rn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57516/devtools/browser/e5412ff9-5089-4c70-a73a-4a76d7f9e9fb
+1658173643966	Marionette	INFO	Listening on port 57521
+1658173644344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1658173646219	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1658173647793	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1658173667375	Marionette	INFO	Stopped listening on port 57521
+1658248648315	geckodriver	INFO	Listening on 127.0.0.1:54816
+1658248650372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54817" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilecPKQAU"
+1658248651275	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilecPKQAU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54817/devtools/browser/5207fa78-2faa-477c-8edd-67dd434e67f8
+1658248655576	Marionette	INFO	Listening on port 54822
+1658248656174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1658248658050	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1658248659315	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1658248678990	Marionette	INFO	Stopped listening on port 54822
+1658331387034	geckodriver	INFO	Listening on 127.0.0.1:58309
+1658331389103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58310" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileo75JXc"
+1658331390150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileo75JXc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58310/devtools/browser/e750990b-7c3d-43e3-a19b-6469dc2d1a66
+1658331394980	Marionette	INFO	Listening on port 58315
+1658331395400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1658331397677	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1658331399294	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1658331418777	Marionette	INFO	Stopped listening on port 58315
+1658437033814	geckodriver	INFO	Listening on 127.0.0.1:60542
+1658437035903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60543" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileGCWrAq"
+1658437036848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileGCWrAq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60543/devtools/browser/fc774760-b8eb-469f-8e84-e4bd8a1504e3
+1658437040948	Marionette	INFO	Listening on port 60548
+1658437041460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1658437043221	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1658437044889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1658437064234	Marionette	INFO	Stopped listening on port 60548
+1658754601747	geckodriver	INFO	Listening on 127.0.0.1:62801
+1658754603829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62802" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofile8ZKPHv"
+1658754604814	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofile8ZKPHv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62802/devtools/browser/a4ea8a8c-cd01-4c60-b0d0-bb084a78e32e
+1658754609023	Marionette	INFO	Listening on port 62807
+1658754609353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1658754610988	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1658754612367	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1658754631942	Marionette	INFO	Stopped listening on port 62807
+[Parent 17956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1659361108040	geckodriver	INFO	Listening on 127.0.0.1:54005
+1659361110099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54006" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofile6S2kbd"
+1659361110987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofile6S2kbd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54006/devtools/browser/0fac996c-dde2-46e5-9466-93117d528051
+1659361115007	Marionette	INFO	Listening on port 54011
+1659361115362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1659361117383	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1659361118881	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659361138474	Marionette	INFO	Stopped listening on port 54011
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1659445937627	geckodriver	INFO	Listening on 127.0.0.1:51323
+1659445939716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51324" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofiled9311X"
+1659445940578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofiled9311X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51324/devtools/browser/f87f5814-adb5-48b4-907a-3fab4aa92403
+1659445944569	Marionette	INFO	Listening on port 51329
+1659445944894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1659445952733	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1659445990340	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659446009940	Marionette	INFO	Stopped listening on port 51329
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1659625474879	geckodriver	INFO	Listening on 127.0.0.1:55858
+1659625476949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55859" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofile2cngos"
+1659625477835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofile2cngos\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55859/devtools/browser/95edb11e-62cc-4bb6-b922-8c3391d966c6
+1659625482252	Marionette	INFO	Listening on port 55864
+1659625482670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1659625484368	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1659625485851	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659625505355	Marionette	INFO	Stopped listening on port 55864
+[Parent 16284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660168797226	geckodriver	INFO	Listening on 127.0.0.1:59173
+1660168799303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59174" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileTm9Wmv"
+1660168800270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileTm9Wmv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59174/devtools/browser/965fa256-9e78-4f31-a993-562e4242b81c
+1660168804865	Marionette	INFO	Listening on port 59179
+1660168805208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1660168807052	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1660168808494	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660168828148	Marionette	INFO	Stopped listening on port 59179
+[Parent 10516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1660740388318	geckodriver	INFO	Listening on 127.0.0.1:60883
+1660740390409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60884" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofile48tFCg"
+1660740391739	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofile48tFCg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60884/devtools/browser/10a6da88-8d98-4208-a959-cb3e4d8f52a0
+1660740395953	Marionette	INFO	Listening on port 60889
+1660740396309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1660740398203	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1660740399860	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660740419350	Marionette	INFO	Stopped listening on port 60889
+[Parent 24124, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661793174391	geckodriver	INFO	Listening on 127.0.0.1:65135
+1661793176467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65136" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofiletH1xIK"
+1661793177466	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofiletH1xIK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65136/devtools/browser/d2e7bdc0-9958-4b5f-bc50-a9354fe5911e
+1661793181885	Marionette	INFO	Listening on port 65141
+1661793182343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1661793184413	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1661793186247	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661793205878	Marionette	INFO	Stopped listening on port 65141
+[Parent 37504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1661873077189	geckodriver	INFO	Listening on 127.0.0.1:52515
+1661873079258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52516" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileCtf8tH"
+1661873080235	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileCtf8tH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52516/devtools/browser/74302586-5c9f-4795-b300-a75cee89352c
+1661873084352	Marionette	INFO	Listening on port 52521
+1661873084940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1661873086978	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1661873088752	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1661873108363	Marionette	INFO	Stopped listening on port 52521
+1662647122509	geckodriver	INFO	Listening on 127.0.0.1:52009
+1662647124594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52010" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofile6biBEE"
+1662647125571	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofile6biBEE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52010/devtools/browser/9e37e25d-8d7e-4bce-854e-e534b35e427b
+1662647129761	Marionette	INFO	Listening on port 52015
+1662647130143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1662647132048	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.12.7821.20066, line 356: unreachable code after return statement
+1662647133823	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1662647153100	Marionette	INFO	Stopped listening on port 52015
+1664295383480	geckodriver	INFO	Listening on 127.0.0.1:61577
+1664295385553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61578" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilebIa1ad"
+1664295386458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilebIa1ad\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61578/devtools/browser/14cf9c78-268f-40cc-b32c-455a69dd05a0
+1664295390703	Marionette	INFO	Listening on port 61583
+1664295391088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664295394865	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.16.8292.29766, line 433: unreachable code after return statement
+1664295396930	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1664295416630	Marionette	INFO	Stopped listening on port 61583
+1664889613458	geckodriver	INFO	Listening on 127.0.0.1:56331
+1664889615530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56332" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileGDWI38"
+1664889616487	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileGDWI38\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56332/devtools/browser/82220c43-7e59-4aa6-9aaf-843f38d9bb3f
+1664889620861	Marionette	INFO	Listening on port 56337
+1664889621078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1664889623720	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.16.8292.29766, line 433: unreachable code after return statement
+1664889625764	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1664889645454	Marionette	INFO	Stopped listening on port 56337
+[Parent 22140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1665595631688	geckodriver	INFO	Listening on 127.0.0.1:51241
+1665595633763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51242" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilehkQjZE"
+1665595634631	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilehkQjZE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51242/devtools/browser/3e34b67c-ec70-48bf-893b-e77a9dd86d8e
+1665595638870	Marionette	INFO	Listening on port 51247
+1665595639355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1665595641664	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.16.8292.29766, line 433: unreachable code after return statement
+1665595643618	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1665595663301	Marionette	INFO	Stopped listening on port 51247
+[Parent 27308, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666204147734	geckodriver	INFO	Listening on 127.0.0.1:63291
+1666204149820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63292" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileLTquZP"
+1666204151041	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileLTquZP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63292/devtools/browser/4fc90424-1c51-4a87-bdf0-9d416cd0376f
+1666204155715	Marionette	INFO	Listening on port 63297
+1666204156314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1666204158198	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.16.8292.29766, line 433: unreachable code after return statement
+1666204160851	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666204180527	Marionette	INFO	Stopped listening on port 63297
+[Parent 33488, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1666269304142	geckodriver	INFO	Listening on 127.0.0.1:52207
+1666269306193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52208" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofilea0lnvo"
+1666269307135	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofilea0lnvo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52208/devtools/browser/742c2648-ec99-4d79-ab9f-32bf744daa9f
+1666269311390	Marionette	INFO	Listening on port 52213
+1666269311799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1666269313887	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.16.8292.29766, line 433: unreachable code after return statement
+1666269315843	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666269335527	Marionette	INFO	Stopped listening on port 52213
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1666880732117	geckodriver	INFO	Listening on 127.0.0.1:50459
+1666880734173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50460" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofile4BUWx3"
+1666880735365	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofile4BUWx3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50460/devtools/browser/1ac0555f-5364-4f57-a9e4-2cd199d3d143
+1666880740356	Marionette	INFO	Listening on port 50465
+1666880741011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1666880743179	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.16.8292.29766, line 433: unreachable code after return statement
+1666880745472	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1666880765020	Marionette	INFO	Stopped listening on port 50465
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667928332155	geckodriver	INFO	Listening on 127.0.0.1:53040
+1667928334217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53041" "-no-remote" "-profile" "C:\\Users\\ADMINI~1.WIN\\AppData\\Local\\Temp\\2\\rust_mozprofileNczYdJ"
+1667928335269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrador.WIN-6FR5GPAAO2F\\AppData\\Local\\Temp\\2\\rust_mozprofileNczYdJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53041/devtools/browser/9f79c8e7-95e7-48f0-8d2a-c8f94e8ccd81
+1667928339737	Marionette	INFO	Listening on port 53046
+1667928340336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1667928342540	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://valtek.proactivanet.com/proactivanet/paw3/agent/other/scripts/ctrl/data/dataField/dataFieldMultiFun/dataFieldFileUpload.js?v=10.16.8292.29766, line 433: unreachable code after return statement
+1667928344622	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667928364194	Marionette	INFO	Stopped listening on port 53046
+[Parent 13116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

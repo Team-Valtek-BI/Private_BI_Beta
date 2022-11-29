@@ -1,0 +1,43 @@
+extends layout
+
+block content
+  hr
+  //-REVISAR A FUTURO
+  if Busy == true
+    //- <script>setTimeout(function(){window.location.reload(1);}, 5000);</script>
+    //- p Servidor ocupado cargando #{last_launched}.
+    //- p Por favor espere...
+    //- hr 
+    //- form(name="controlador_ETLS_Adquisiciones",method="get",action="/ETLS/")
+    //-       button(class="btn btn-primary", type="submit") Actualizar
+
+    //- else
+    ul
+      li
+        a(href="/ETLS/Test_Reportado/")
+          button(class="btn btn-warning") Test-Reportado
+      li
+        form(name="bsc_button",method="get",action="/ETLS/BSC/")
+          button(class="btn btn-primary", type="submit") Ejecutar Carga de BSC
+      li
+        form( name="rindegastos_button",method="get",action="/ETLS/RindeGastos/")
+          button(class="btn btn-primary", type="submit") Ejecutar Carga de RindeGastos Mensual
+      
+      li
+        form( name="existencias_button",method="get",action="/ETLS/existencias_historicas/")
+          button(class="btn btn-primary", type="submit") Ejecutar Carga de Existencias Históricas
+      li
+        form( name="cxc_button",method="get",action="/ETLS/cxc/")
+          button(class="btn btn-primary", type="submit") Ejecutar Carga de Cuentas por Cobrar
+  
+  hr
+  
+  if error_anterior
+    div.error_marco
+      p.error Hubo un error en la ejecución anterior, el proceso era:
+      p.destacado #{last_launched}
+      each a in error_anterior_text
+        p.error_verbose #{a} 
+    hr
+
+

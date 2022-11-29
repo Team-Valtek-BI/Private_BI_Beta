@@ -1,0 +1,80 @@
+doctype html
+html
+  head
+    title= title
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <script src="/css/bootstrap.bundle.min.js"></script>
+    link(rel='stylesheet', href='/css/style.css') 
+    
+
+  body
+
+html
+  head
+  body
+
+    .wrapper
+      // Sidebar
+      nav#sidebar
+        .sidebar-header
+          img(src='/images/valtek_logo.jpeg', class="")
+          br
+          br
+          br
+        ul.list-unstyled.components
+
+          li.active
+            a.dropdown-toggle(href='#homeSubmenu', data-toggle='collapse', aria-expanded='false') AREA FINANZAS
+            ul#homeSubmenu.collapse.list-unstyled
+              li
+                a(href='#') AREA FINANZAS
+              li
+                a(href='#') AREA LICITACIONES
+              li
+                a(href='#') Home 3
+          li
+    
+          li
+            a.dropdown-toggle(href='#pageSubmenu', data-toggle='collapse', aria-expanded='false') AREA LICITACIONES 
+            ul#pageSubmenu.collapse.list-unstyled
+              li
+                a(href='#') AREA FINANZAS
+              li
+                a(href='#') AREA LICITACIONES
+          
+
+      
+      div(class='col-10 container-fluid', style='border: 4px solid darkblue')
+        
+        header
+          .row
+            div(class='col-8')
+              h1 #{title}
+            div(class='col-4')
+              form(name="back_to_index",method="get",action="/")
+          button(class="btn btn-success", color='green', type="submit") Regresar
+              
+    script(src='/scripts/jquery.min.js')
+
+
+    //- div(class="container-fluid")
+    //-   div(class='row')
+    //-     div(class='col-2 danger', style='')
+    //-       img(src='/images/valtek_logo.jpeg', class="")
+    //-       br
+    //-       br
+    //-       br
+    //-       br
+    //-       br
+    //-       br
+    //-       br
+    //-       br
+    //-       br
+      
+         
+
+
+
+    block content
