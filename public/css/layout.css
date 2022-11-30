@@ -1,0 +1,32 @@
+:root{
+    --primary: #111b54;
+    --light: #ffffff;
+    --grey: #efefef;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+body{
+    overflow: hidden;
+    font-family: 'muli', sans-serif;
+    font-weight: 300;
+    color: var(--primary);
+
+}
+
+#sidebar-container {
+    min-height: 100vh;
+    background-color:#424141;	
+}
+
+#sidebar-container .logo {
+    padding: .875rem 1.25rem;
+}
+
+#sidebar-container .menu{
+    width: 18rem;
+}
+
+/* E84A5F #DC3815*/
