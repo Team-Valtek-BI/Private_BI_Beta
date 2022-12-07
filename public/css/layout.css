@@ -8,25 +8,23 @@ a:hover{
     text-decoration: none;
 }
 
-body{
-    overflow: hidden;
-    font-family: 'muli', sans-serif;
-    font-weight: 300;
-    color: var(--primary);
-
+#base{
+    background-color: #efefee;
 }
 
 #sidebar-container {
     min-height: 100vh;
-    background-color:#424141;	
+    background-image: linear-gradient(to bottom, #aeb0d3, #a5aad7, #9aa4da, #8e9fde, #809ae2, #7696e1, #6b92e0, #5f8edf, #588ad9, #5285d3, #4b81cd, #447dc7);
 }
-
-#sidebar-container .logo {
-    padding: .875rem 1.25rem;
-}
-
 #sidebar-container .menu{
     width: 18rem;
 }
 
+img.foto {
+    /* position: relative; */
+    top: 200em;
+  }
 /* E84A5F #DC3815*/
+
+
+

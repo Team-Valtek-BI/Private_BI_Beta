@@ -16,22 +16,51 @@ html
   
 html
   head
+  
   body
+  div(id ="base" class="w-100")
+    
+   
     div(id="content-wrapper" class="d-flex" )
-      div(id="sidebar-container" class="color-sidebar") 
-        div(class="logo")
-          img(src='/images/valtek_logo.jpeg', class="")
       
-        div(class="menu")
-       
-          h2(class="text-light text-center") AREAS
+    
+      div(id="sidebar-container" class="color-sidebar border-right border-dark") 
+        img(src="/images/valtek_logo.jpeg" class="foto p-3 border-bottom border-dark")
+      
+        div(class="logo")
+          
+      
+   
+
+          br
+          h2(class=" text-center") AREAS
           br
       
-          a(href="#" class="d-block text-light p-2") Finanzas
-          a(href="#" class="d-block text-light p-2") Licitaciones
-          a(href="#" class="d-block text-light p-2") Operaciones 
-          a(href="#" class="d-block text-light p-2") Contabilidad 
-          a(href="#" class="d-block text-light p-2") Comercial 
+          a(href="/controlador_ETLS" name="controlador_ETLS_Adquisiciones",method="get" class="d-block text-dark p-2") Finanzas
+          a(href="controlador_ETLS_Adquisiciones" class="d-block text-dark p-2") Adquisiciones
+          a(href="#" class="d-block text-dark p-2") Licitaciones
+          a(href="#" class="d-block text-dark p-2") Operaciones
+          a(href="#" class="d-block text-dark p-2") Contabilidad
+          a(href="#" class="d-block text-dark p-2") Comercial
+      div(class="container-fluid")
+        //- h1(class="text-center p-2 text-white") Contenido en construcción, diseño experimental
+            
+        button(class="btn btn-primary", type="submit") Volver a inicio
+
+        button(class="btn btn-primary float-right", type="submit") Cerrar sesion
+        br
+        br
+        h1(class="text-dark") CONTROLADOR DE ETLS
+
+        img(src="/images/meme.jpg" class="foto p-3")
+
+        //- ul
+        //- li
+        //-   form(name="controlador_ETLS",method="get",action="/ETLS/")
+        //-       button(class="btn btn-primary", type="submit") Controlador de ETLs de Finanzas
+        //- li
+        //-   form(name="controlador_ETLS_Adquisiciones",method="get",action="/ETLS_adquisiciones/")
+        //-         button(class="btn btn-primary", type="submit") Controlador de ETLs de Adquisiciones
 
 
     //- .wrapper
@@ -74,7 +103,7 @@ html
       
     //-   div(class='col-10 container-fluid', style='border: 4px solid darkblue')
         
-
+    script(src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous")
     script(src='/scripts/jquery.min.js')
     link(href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css")
     script(src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous")
