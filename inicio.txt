@@ -1,0 +1,4 @@
+pm2 start bin/launcher.js
+
+
+si lanza error ejecutar npm install pm2 -g
