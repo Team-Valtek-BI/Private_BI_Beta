@@ -10,7 +10,8 @@ html
     //- link(rel='stylesheet', href='/css/style.css')
   
     link(rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous")
-  
+  <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     link(href="https://fonts.googleapis.com/css?family=Muli:300,700&display=swap" rel="stylesheet")
 
   
@@ -31,11 +32,15 @@ html
         div(class="logo text-white")
           
       
-   
 
-          h4(class=" text-center text-white") AREAS
+          h5(class="text-center text-white" ) <ion-icon name="home"></ion-icon> 
+
           br
+          h4(class="text-center text-white") AREAS
 
+         
+          br
+   
           a(href="/controlador_ETLS" name="controlador_ETLS_Adquisiciones",method="get" class="d-block text-white p-2" style="text-decoration:none" ) <ion-icon name="wallet"></ion-icon> Finanzas <ion-icon name="chevron-down-outline"></ion-icon>
           a(href="controlador_ETLS_Adquisiciones" class="d-block text-white p-2" style="text-decoration:none" ) <ion-icon name="today"></ion-icon> Adquisiciones <ion-icon name="chevron-down-outline"></ion-icon>
           a(href="#" class="d-block text-white p-2" style="text-decoration:none"  ) <ion-icon name="watch"></ion-icon> Licitaciones <ion-icon name="chevron-down-outline"></ion-icon> 
@@ -45,12 +50,26 @@ html
       div(class="container-fluid")
         //- h1(class="text-center p-2 text-white") Contenido en construcción, diseño experimental
             
-        button(class="btn btn-primary", type="submit") Volver a inicio
+       
+        button(class="btn btn-dark float-right", type="submit") Cerrar sesion
+        br
+        br
+        h1(class="text-dark") Bienvenido, Admin!
 
-        button(class="btn btn-primary float-right", type="submit") Cerrar sesion
-        br
-        br
-        h1(class="text-dark") CONTROLADOR DE ETLS
+
+                hr
+        p Contenido en construcción, diseño experimental. Por favor eliga el area que le corresponda.
+
+
+        //- ul
+        //- li
+        //-   form(name="controlador_ETLS",method="get",action="/ETLS/")
+        //-       button(class="btn btn-primary", type="submit") Controlador de ETLs de Finanzas
+        //- li
+        //-   form(name="controlador_ETLS_Adquisiciones",method="get",action="/ETLS_adquisiciones/")
+        //-         button(class="btn btn-primary", type="submit") Controlador de ETLs de Adquisiciones
+
+        //- hr
 
 
         //- ul
@@ -102,7 +121,8 @@ html
       
     //-   div(class='col-10 container-fluid', style='border: 4px solid darkblue')
         
-
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
     script(src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous")
     script(src='/scripts/jquery.min.js')
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>

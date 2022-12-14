@@ -28,3 +28,11 @@ img.foto {
 
 
 
+li:last-child {
+    list-style-type: none; 
+ }
+
+
+ ul {  
+    list-style-type: none; 
+}
