@@ -43,4 +43,9 @@ li{
   color: darkslategray;
   font-weight: 400;
 }
+a:visited {
+
+  color:red;
+  
+  }
 
