@@ -1,16 +1,19 @@
 extends layout
 
-//- //- block content
-//- //-             hr
-//- //-             p Contenido en construcción, diseño experimental.
-//- //-             p Por el momento se encuentran disponibles:
+block content
 
-//- //-             ul
-//- //-             li
-//- //-               form(name="controlador_ETLS",method="get",action="/ETLS/")
-//- //-                   button(class="btn btn-primary", type="submit") Controlador de ETLs de Finanzas
-//- //-             li
-//- //-               form(name="controlador_ETLS_Adquisiciones",method="get",action="/ETLS_adquisiciones/")
-//- //-                     button(class="btn btn-primary", type="submit") Controlador de ETLs de Adquisiciones
+  h1(class="text-dark") Bienvenido, Admin!
+  br
+  br
 
-//- //-             hr
+
+  hr
+  p Contenido en construcción, diseño experimental. Por favor eliga el area que le corresponda.
+
+//- h
+
+//-     //- ul
+    //-   li
+    //-     form(name="bsc_button",method="get",action="/ETLS_adquisiciones/Clasificacion-por-PM/")
+    //-       button(class="btn btn-success", type="submit") Ejecutar Carga de Clasificacion por PM
+    //- hr

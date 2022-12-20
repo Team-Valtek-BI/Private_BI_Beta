@@ -45,4 +45,12 @@ router.get('/base-calendario', function(req, res, next) {
   res.redirect('../')
 });
 
+
+router.get('/pm', function(req, res, next) {
+  last_launched = 'pm'
+  res.redirect('../')
+});
+
+
+
 module.exports = router;

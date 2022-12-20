@@ -10,5 +10,9 @@ router.get('/index', function(req, res, next) {
   res.render('index', { title: 'Business Partner' });
 });
 
+router.get('/pm', function(req, res, next) {
+  res.render('pm', { title: 'Business Partner' });
+});
+
 
 module.exports = router;
