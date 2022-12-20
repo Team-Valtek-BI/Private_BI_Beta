@@ -4,6 +4,8 @@ block content
   
   hr
   
+
+
   p Para ejectuar un proceso de carga presionar el botón correspondiente, solo se podrá ejecutar uno a la vez.
   
 
@@ -15,19 +17,21 @@ block content
     //form(name="controlador_ETLS_Adquisiciones",method="get",action="/ETLS_adquisiciones/")
           button(class="btn btn-primary", type="submit") Actualizar
   else
-    ul
-      li
-        form(name="bsc_button",method="get",action="/ETLS_adquisiciones/Clasificacion-por-PM/")
-          button(class="btn btn-success", type="submit") Ejecutar Carga de Clasificacion por PM
-    hr
-    p Para proceso de forecast de repuestos:
+    //- ul
+    //-   li
+    //-     form(name="bsc_button",method="get",action="/ETLS_adquisiciones/Clasificacion-por-PM/")
+    //-       button(class="btn btn-success", type="submit") Ejecutar Carga de Clasificacion por PM
+    //- hr
+    //- p Para proceso de forecast de repuestos:
     ul
       li
         form(name="bsc_button",method="get",action="/ETLS_adquisiciones/Ciclos-Equipos/")
           button(class="btn btn-success", type="submit") Ejecutar Carga de Mantención Ciclos Equipos
+      br      
       li
         form(name="bsc_button",method="get",action="/ETLS_adquisiciones/Cargar-Zonas-ProactivaNet/")
           button(class="btn btn-primary", type="submit") Ejecutar Carga de Zonas de ProactivaNet
+        br
       li
         form(name="bsc_button",method="get",action="/ETLS_adquisiciones/base-calendario/")
           button(class="btn btn-info", type="submit") Ejecutar Carga de Base Calendario Repuestos

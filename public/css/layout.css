@@ -33,6 +33,26 @@ li:last-child {
  }
 
 
- ul {  
+ul {  
     list-style-type: none; 
+}
+
+.bar .menu a{
+    color: #fff;
+    text-decoration:none;
+}
+
+.bar .menu a:hover{
+    background: #111b54;
+    transition: 0.3 ease;
+}
+
+.bar .menu .sub-menu{
+    background: rgba(255, 255, 255, 0.1);
+    display: none;
+
+}
+
+.bar .menu .sub-menu a{
+    padding-left: 25px;
 }
