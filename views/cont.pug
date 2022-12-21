@@ -1,0 +1,26 @@
+extends layout
+
+block content
+
+
+  if Busy == true
+    <script>setTimeout(function(){window.location.reload(1);}, 5000);</script>
+    p Servidor ocupado cargando #{last_launched}.
+    p Por favor espere...
+    hr 
+    //form(name="controlador_ETLS_Adquisiciones",method="get",action="/ETLS/")
+          button(class="btn btn-primary", type="submit") Actualizar
+  else
+    ul
+        li
+        form( name="rindegastos_button",method="get",action="/ETLS/RindeGastos/")
+            button(class="btn btn-primary", type="submit") Ejecutar Carga de RindeGastos Mensual
+        br
+        li
+        form( name="existencias_button",method="get",action="/ETLS/existencias_historicas/")
+            button(class="btn btn-primary", type="submit") Ejecutar Carga de Existencias Históricas
+        br
+        li
+        form( name="cxc_button",method="get",action="/ETLS/cxc/")
+            button(class="btn btn-primary", type="submit") Ejecutar Carga de Cuentas por Cobrarextends layout
+

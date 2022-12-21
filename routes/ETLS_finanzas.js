@@ -21,6 +21,11 @@ router.get('/', function(req, res, next) {
   res.render('ETLS', {Busy, last_launched, error_anterior, error_anterior_text});
 });
 
+router.get('/cont', function(req, res, next) {
+  title = 'Controlador de ETLs'
+  res.render('cont', {Busy, last_launched, error_anterior, error_anterior_text});
+});
+
 //BSC
 router.get('/BSC', function(req, res, next) {
   last_launched = 'BSC'
@@ -64,5 +69,6 @@ router.get('/Test_Reportado/TR_tipo_costos', function(req, res, next) {
   myEmitter.emit('launch_ETL', 'C:/ETLs Camilo/Cargas a Solicitud/Cargas TR/Cargar_TR_Tipo_Costos.bat')
   res.redirect('../')
 });
+
 
 module.exports = router;

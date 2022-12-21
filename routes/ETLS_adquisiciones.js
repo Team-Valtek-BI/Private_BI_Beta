@@ -45,6 +45,12 @@ router.get('/base-calendario', function(req, res, next) {
   res.redirect('../')
 });
 
+// modificacion carlos
+router.get('/carga-productos', function(req, res, next) {
+  last_launched = 'carga productos'
+  myEmitter.emit('launch_ETL', 'C:/ETLs Camilo/forecast/Cargar_forecast.bat', true)
+  res.redirect('../')
+});
 
 router.get('/pm', function(req, res, next) {
   last_launched = 'pm'
