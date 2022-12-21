@@ -1,9 +1,29 @@
 extends layout
 
 block content
+  hr
+  p Para ejectuar un proceso de carga presionar el botón correspondiente, solo se podrá ejecutar uno a la vez.
+  
 
+  if Busy == true
+    <script>setTimeout(function(){window.location.reload(1);}, 5000);</script>
+    p Servidor ocupado cargando #{last_launched}.
+    p Por favor espere...
+    hr 
+    //form(name="controlador_ETLS_Adquisiciones",method="get",action="/ETLS_adquisiciones/")
+          button(class="btn btn-primary", type="submit") Actualizar
+  else
   ul
     li
       form(name="bsc_button",method="get",action="/ETLS_adquisiciones/Clasificacion-por-PM/")
         button(class="btn btn-success", type="submit") Ejecutar Carga de Clasificacion por PM
+
   hr
+  
+  if error_anterior
+    div.error_marco
+      p.error Hubo un error en la ejecución anterior, el proceso era:
+      p.destacado #{last_launched}
+      each a in error_anterior_text
+        p.error_verbose #{a} 
+    hr

@@ -3,6 +3,10 @@ extends layout
 block content
 
 
+  hr
+  
+  p Para ejectuar un proceso de carga presionar el botón correspondiente, solo se podrá ejecutar uno a la vez.
+
   if Busy == true
     <script>setTimeout(function(){window.location.reload(1);}, 5000);</script>
     p Servidor ocupado cargando #{last_launched}.
@@ -24,3 +28,12 @@ block content
         form( name="cxc_button",method="get",action="/ETLS/cxc/")
             button(class="btn btn-primary", type="submit") Ejecutar Carga de Cuentas por Cobrarextends layout
 
+  hr
+  
+  if error_anterior
+    div.error_marco
+      p.error Hubo un error en la ejecución anterior, el proceso era:
+      p.destacado #{last_launched}
+      each a in error_anterior_text
+        p.error_verbose #{a} 
+    hr
